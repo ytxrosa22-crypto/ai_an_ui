@@ -28,7 +28,7 @@ st.markdown(
 st.title("🧸 AI Piroh")
 st.caption("Một người bạn luôn ở đây, lắng nghe và xoa dịu những nỗi buồn của cậu. 🤍")
 
-API_KEY = "AQ.Ab8RN6K844gdQNNWaHBzMB8-H6fnpH5nuZur-Kli4xEr2rfYZg"
+API_KEY = ""
 
 if "messages" not in st.session_state:
     st.session_state.messages = [
